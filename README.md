@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
 
   <!-- Teks About Me (Markdown tetap diparse) -->
-  <div style="flex: 1; min-width: max;">
+  <div style="flex: 1; min-width: 200px;">
   
   ### 💫 About Me:
 
