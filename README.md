@@ -1,11 +1,28 @@
 ## Hi World! I'm M.Bahrudin 👋
 
 ![Benner](img/github-header-image.png)
-![Programer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wcmJleTMwc3VhOGZucXpnbTV5OWZxaTYyYWwwbzE2dnQwaHg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 💫 About Me:
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
 
-<br>- 🔭 I’m currently working on campus Politeknik Sriwijaya<br>- 🌱 I’m currently learning [**React**](https://react.dev/) Library<br>- 😊😊😊
+  <!-- Teks About Me (Markdown tetap diparse) -->
+  <div style="flex: 1; min-width: max;">
+  
+  ### 💫 About Me:
+
+- 🔭 I’m currently working on campus Politeknik Sriwijaya
+- 🌱 I’m currently learning [**React**](https://react.dev/) Library
+- 😊😊😊
+
+  </div>
+
+  <!-- Gambar -->
+
+<img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wcmJleTMwc3VhOGZucXpnbTV5OWZxaTYyYWwwbzE2dnQwaHg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Programmer" 
+    style="max-width: 150px; width: 100%; height: auto; border-radius: 8px;" />
+
+</div>
 
 ### 🌐 Socials:
 
